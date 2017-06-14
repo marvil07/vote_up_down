@@ -31,18 +31,4 @@ class VoteUpDownWidget extends Plugin {
    */
   public $label;
 
-  /**
-   * Provides description of the widget plugin.
-   *
-   * @var string
-   */
-
-  public $vud_widget;
-
-  /**
-   * @var string
-   */
-
-  public $default_vud_widget = 'plain';
-
 }
