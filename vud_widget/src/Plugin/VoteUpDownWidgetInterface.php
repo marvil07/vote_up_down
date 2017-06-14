@@ -5,7 +5,7 @@ namespace Drupal\vud_widget\Plugin;
 use Drupal\Component\Plugin\PluginInspectionInterface;
 
 /**
- * Defines an interface for Vote Up/Down Field plugins.
+ * Defines an interface for Vote Up/Down Widget plugins.
  */
 interface VoteUpDownWidgetInterface extends PluginInspectionInterface
 {

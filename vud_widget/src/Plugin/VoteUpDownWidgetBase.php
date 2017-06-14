@@ -5,7 +5,7 @@ namespace Drupal\vud_widget\Plugin;
 use Drupal\Component\Plugin\PluginBase;
 
 /**
- * Base class for Vote Up/Down Field plugins.
+ * Base class for Vote Up/Down Widget plugins.
  */
 abstract class VoteUpDownWidgetBase extends PluginBase implements VoteUpDownWidgetInterface
 {
