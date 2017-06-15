@@ -1,0 +1,11 @@
+plain:
+  js:
+    js/vote.js : {}
+  css:
+    theme:
+      css/font-awesome.min.css: {}
+      css/plain.css: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - vuds/fontawesome

@@ -1,0 +1,4 @@
+services:
+  plugin.manager.vud_field:
+    class: Drupal\vud_field\Plugin\VoteUpDownFieldManager
+    parent: default_plugin_manager

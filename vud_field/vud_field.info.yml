@@ -1,0 +1,5 @@
+name: 'Vote Up/Down Field'
+type: module
+description: 'Provides a plugin type for the Vote Up/Down widgets'
+package: Voting
+core: 8.x

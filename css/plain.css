@@ -1,0 +1,22 @@
+.vote-up-down{
+    display: block;
+    width: 80px;
+    background-color: #f0f0f0;
+}
+
+.vote-up-down > div{
+    width: 20px;
+}
+
+.vote-up-down > div > a > i{
+    display: block;
+    opacity: 0.5;
+}
+
+.vote-up-down > div > a.active > i{
+    opacity: 1;
+}
+
+.vote-up-down > div > a.active:hover > i{
+    opacity: 0.8;
+}
